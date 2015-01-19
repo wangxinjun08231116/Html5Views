@@ -7,11 +7,12 @@
 
 <body>
 
-<img class="shouye_big" src="/WangXinJun/images/shouye/shouye.png" />
+<img class="big" src="/WangXinJun/images/shouye/shouye.png" />
 <br />
-<img class="shouye_small" src="/WangXinJun/images/shouye/shouye.png" />
-<br />
-<img src="/WangXinJun/images/shouye/shouye.png" width="200" height="200">
+<img class="small" src="/WangXinJun/images/shouye/shouye.png" />
+
+
+//<img src="/WangXinJun/images/shouye/shouye.png" width="200" height="200">
 
 <p>通过改变 img 标签的 "height" 和 "width" 属性的值，您可以放大或缩小图像。</p>
 
