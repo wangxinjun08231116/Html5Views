@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body onresize="myLoad()" onload="myLoad()">
+<div id="xuanma" style="Z-INDEX: 1; LEFT: 0px; POSITION: absolute; TOP: 0px"><img id="ximage" src="/WangXinJun/images/shouye/shouye.png"/></div>
+<SCRIPT language="javascript" type=text/javascript>
+function myLoad()
+{
+document.getElementById('xuanma').style.top= document.body.clientHeight/2-document.getElementById('ximage').height/2;
+document.getElementById('xuanma').style.left= document.body.clientWidth/2-document.getElementById('ximage').width/2;
+}
+</SCRIPT>
+</body>
+</html>
