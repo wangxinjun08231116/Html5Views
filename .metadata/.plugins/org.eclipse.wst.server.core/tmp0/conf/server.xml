@@ -131,7 +131,7 @@
                prefix="localhost_access_log." suffix=".txt" pattern="common" resolveHosts="false"/>
         -->
 
-      <Context docBase="/Users/xinjunwang/Documents/html5/work/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/xinjunwang/Documents/html5/work/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/html01" path="/html01" reloadable="true" source="org.eclipse.jst.jee.server:html01"/></Host>
+      <Context docBase="/Users/xinjunwang/Documents/html5/work/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/xinjunwang/Documents/html5/work/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/WangXinJun" path="/WangXinJun" reloadable="true" source="org.eclipse.jst.jee.server:WangXinJun"/></Host>
     </Engine>
   </Service>
 </Server>
