@@ -1,0 +1,21 @@
+
+* {margin:0;padding:0;}
+
+html{
+	height:100%;width:100%;
+}
+body {height:100%;width:100%;}
+
+.container {width:100%;height:85%;background:#ccc;}
+
+.info-area {
+    margin: 20px auto;
+    width: 90%;
+    height: 90%;   
+    background-color: #ccc;
+}
+.text-box {
+    border: 1px solid #dedede;
+    border-radius: 5px;
+}
+

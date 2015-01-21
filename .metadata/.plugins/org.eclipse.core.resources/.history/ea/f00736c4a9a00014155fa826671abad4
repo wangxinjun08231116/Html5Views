@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link href="WebContent/css/QCF/shouye.css" rel="stylesheet">
+</head>
+<body>
+<div class="info-area">
+	<pan>nihao</pan>
+</div>
+</body>
+</html>

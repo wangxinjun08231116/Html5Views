@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+ <link href="/WangXinJun/css/QCF/shouye.css" rel="stylesheet" type="text/css"/>
+</head>
+
+
+<body>
+<div class="container" >
+        <img class = "image" src="/WangXinJun/images/js06/thumbnail_fireworks.jpg" >
+</div>
+<div class="btContainer" >
+<div class="submit-btn" >
+	<img class = "bottomImage" src="/WangXinJun/images/js06/thumbnail_fireworks.jpg" >
+</div>
+<div class="bottomImage" >
+	<img class = "image" src="/WangXinJun/images/js06/thumbnail_fireworks.jpg" >
+</div>
+<div class="bottomImage" >
+	<img class = "image" src="/WangXinJun/images/js06/thumbnail_fireworks.jpg" >
+</div>
+
+
+</div>
+</body>
+</html>

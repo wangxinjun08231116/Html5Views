@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Image Gallery</title>  
+	<link rel="stylesheet" href="/WangXinJun/css/QCF/shouye.css" type="text/css" media="screen" />
+</head>
+<body>
+  <div>
+  <p> nimei </p> 
+  </div>
+  <div class="info-area text-box">
+  </div>
+</body>
+</html>

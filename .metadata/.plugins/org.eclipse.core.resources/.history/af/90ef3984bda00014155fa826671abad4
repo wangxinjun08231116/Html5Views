@@ -1,0 +1,37 @@
+
+* {margin:0;padding:0;}
+
+html{
+	height:100%;width:100%;
+}
+body {height:100%;width:100%;background:#000;
+}
+
+.container {width:100%;height:85%;background:#ccc;
+}
+
+.image{width:100%;height:85%;background:#fff;}
+
+
+.btContainer{width:100%;height:80px;background:#bbb;
+position:absolute;
+bottom:0px;
+}
+
+.submit-btn {
+    height:100%;
+    background-color: #f60;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    width:33.33%;
+    line-height:80px;
+	float:right;
+	color: #fff;
+    font-size: 16px;
+    text-align:center; 
+    
+}
+
+
