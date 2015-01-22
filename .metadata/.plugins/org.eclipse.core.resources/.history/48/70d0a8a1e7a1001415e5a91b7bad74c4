@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+ <link href="/WangXinJun/css/QCF/ZhuCe.css" rel="stylesheet" type="text/css"/>
+ <style type="text/css">
+	.topmargin {
+		margin-top: 0px;
+	}
+</style>
+ 
+</head>
+
+
+<body>
+<!-- div 默认有高度为0 ，body是有最小高度的 ， html 是整个页面的高度 -->
+<div class="page" >
+	  <div class="phoneNumberDiv" >
+	 			    <p class="yuyinYanZhengPan"> 通过语音获取验证码 </p>
+	                <input id="verifyCode" class="text-box" type="tel" maxlength="4" placeholder="输入手机号" data-value="输入手机号" onkeyup="checkfade2(this)">
+	                <a class="yanZhengBt">获取验证号码</a>
+	  </div> 
+	  
+	   <div class="yanZhengNumberDiv" >
+              <input id="verifyCode" class="text-box" type="tel" maxlength="4" placeholder="输入手机验证码" data-value="输入手机验证码" onkeyup="checkfade2(this)">
+	  </div> 
+	  
+	  <div class="passwordNumberDiv" >
+                     <input id="verifyCode" class="text-box" type="tel" maxlength="4" placeholder="输入密码，不少于6位" data-value="输入密码，不少于6位" onkeyup="checkfade2(this)">
+	  </div> 
+	  <div  class="passwordNumberDiv">
+	  		<p class="yuyinYanZhengPan"> 通过语音获取验证码 </p>
+	  </div> 
+	  
+	  
+	  
+	  
+<!--
+
+      <div class="phoneNumber" >
+       
+	  </div> 
+	  <div class="yanZhengNumber" >
+       
+	  </div> 
+
+  -->
+
+</div>
+
+</body>
+</html>

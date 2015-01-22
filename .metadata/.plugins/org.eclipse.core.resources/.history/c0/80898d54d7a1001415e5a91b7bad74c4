@@ -1,0 +1,21 @@
+* {margin:0;padding:0;}
+html{
+	background-color:green;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-size: 12px;
+	background-color:red;
+}
+
+.page {
+	
+	height:100px;width:100%;
+    background-color: yellow;
+    color: #333;
+    font-family: "Microsoft Yahei","Simsun",Helvetica,Arial,sans-serif;
+   /*  */ margin-bottom: 0px;//在自己本身的高度上 ＋ 加上20px 
+    padding-bottom: 20px;//在自己本身的高度上 ＋ 加上20px
+    
+}

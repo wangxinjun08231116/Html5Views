@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+ <link href="/WangXinJun/css/QCF/ZhuCe.css" rel="stylesheet" type="text/css"/>
+</head>
+
+
+<body>
+<!-- div 默认有高度为0 ，body是有最小高度的 ， html 是整个页面的高度 -->
+<div class="page" >
+      <div class="phoneNumber" >
+       
+	  </div> 
+	  <div class="phoneNumber" >
+       
+	  </div> 
+</div>
+
+</body>
+</html>
