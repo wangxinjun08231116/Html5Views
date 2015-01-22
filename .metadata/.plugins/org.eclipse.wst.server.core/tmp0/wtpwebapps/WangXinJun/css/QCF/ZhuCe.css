@@ -131,5 +131,20 @@ body {
     display: block;
 }
 
+/*用户协议  */
+.xieYiDiv{
+	height:30px;
+	font-size: 14px;
+	line-height:30px;
+	width:80%;
+    background-color:white;
+    /* 上下外边距20px,左右自动适应，居中。 */
+	text-align:left;     
+}
+.xieYiDiv-a{
+    background-color:blue;
+    /* 上下外边距20px,左右自动适应，居中。 */
+}
+
 
 
