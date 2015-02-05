@@ -1,0 +1,26 @@
+* {margin:0;padding:0;}
+
+html{
+	height:100%;width:100%;
+	background-color:green;
+	
+}
+body {height:90%;width:100%;
+	background-color:red;
+	vertical-align: middle; 
+}
+
+.divContainer{
+	/*body 对齐 html上边界  */
+/* 		position:absolute;
+ */		background-color:gray;
+	    margin-top : 15px;
+	    width:100%;
+	    height:90%;
+	    text-align:center;     
+	    margin:15px auto;
+	    
+	    /*控制y,是否进行剪切 */
+  	  /*   overflow-x: hidden;  */ 	    
+/*  	    border: 1px solid rgba(0, 0, 0, 0.1);
+ */}

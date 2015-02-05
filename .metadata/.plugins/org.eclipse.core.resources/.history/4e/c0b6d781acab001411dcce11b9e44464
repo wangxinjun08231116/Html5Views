@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+	<script type="text/javascript" src="/WangXinJun/js/ChangYongMark/ChangYongMark.js"></script>
+ 	<link href="/WangXinJun/css/ChangYongMark/ChangYongMark.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="divItem" >
+<a>a 标签代表按钮</a>
+<a onclick="showPic(this); return false;">点击onclick="showPic(this); return false;"</a>
+</div>
+<div class="divItem" >
+
+
+</div>
+<div class="divItem" >
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+
+<div class="divItem" >
+
+
+</div>
+</body>
+</html>

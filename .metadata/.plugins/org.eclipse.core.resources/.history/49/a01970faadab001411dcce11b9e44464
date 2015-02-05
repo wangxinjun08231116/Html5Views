@@ -1,0 +1,5 @@
+function showPic(whichpic) {
+  alert("I am an alert box!!");
+  var aMark = document.getElementById("placeholder");
+  aMark.style.cssText = "background-color:red;cursor:pointer";
+}

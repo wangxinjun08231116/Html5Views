@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+	<script type="text/javascript" src="/WangXinJun/js/ChangYongMark/ChangYongMark.js"></script>
+ 	<link href="/WangXinJun/css/ChangYongMark/ChangYongMark.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+
+<!--aMark  -->
+<div class="divItem" >
+	<a id="aMark">a 标签代表按钮</a>
+	<a onclick="show_aMark(this); return false;">点击</a>
+</div>
+
+
+<!--pMark  -->
+<div class="divItem" >
+	<p id="pMark">p 标签代表lable</p>
+	<a onclick="show_pMark(this); return false;">点击</a>
+</div>
+
+
+<!--imgMark  -->
+<div class="divItem" >
+	<img id="imgMark" src="/WangXinJun/images/js06/thumbnail_fireworks.jpg" alt="Fireworks" />
+	<a onclick="show_imgMark(this); return false;">点击</a>
+</div>
+
+
+<!--input  -->
+<div class="divItem" >
+    <input id="inputMark" class="text-box" type="tel" maxlength="8" placeholder="输入密码，不少于6位" data-value="输入密码，不少于6位" onkeyup="checkfade2(this)">
+	<a onclick="show_inputMark(this); return false;">点击</a>
+</div>
+
+
+<!--textarea  -->
+<div class="divItem" >	
+	<textarea id="textareaMark" cols=4 rows=2>欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门</textarea>
+    <a onclick="show_textareaMark(this); return false;">点击</a>
+</div>
+
+
+<!--div scroll  -->
+<div class="divItem" >	
+	<div class="divMark">欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门，欢迎光临猴子也能看懂的网页制作入门</div>
+    <a onclick="show_divMark(this); return false;">点击</a>
+</div>
+
+
+
+
+
+
+
+
+</body>
+</html>

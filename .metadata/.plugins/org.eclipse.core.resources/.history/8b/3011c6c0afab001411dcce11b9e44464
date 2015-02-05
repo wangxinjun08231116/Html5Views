@@ -1,0 +1,5 @@
+function show_aMark(whichpic) {
+//  alert("I am an alert box!!");
+  var aMark = document.getElementById("aMark");
+  aMark.style.cssText = "background-color:blue";
+}

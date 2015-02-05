@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+	<script type="text/javascript" src="/WangXinJun/js/ChangYongMark/table.js"></script>
+ 	<link href="/WangXinJun/css/ChangYongMark/table.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<!--divContainer  -->
+<div class="divContainer" >
+<table>
+<tbody>
+	<tr style="height: 50px; margin-top:5px; border: 1px solid #dadada;">
+		<td class = "td_first" onclick="test(1)" >1</td>
+		<td class = "td_second" onclick="test(2)" >2</td>
+	</tr>
+	
+	
+	
+</tbody>
+</table>
+</div>
+
+</body>
+</html>

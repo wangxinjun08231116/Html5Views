@@ -1,0 +1,4 @@
+function showPic(whichpic) {
+  var aMark = document.getElementById("placeholder");
+  aMark.style.cssText = "background-color:red;cursor:pointer";
+}

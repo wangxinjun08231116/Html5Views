@@ -1,0 +1,18 @@
+
+// 作用 a 标签。 
+function show_aMark(whichpic) {
+//  alert("I am an alert box!!");
+//	getElementById
+  var aMark = document.getElementById("aMark");
+//  设置属性。
+  aMark.style.cssText = "background-color:blue";
+}
+
+//作用 p 标签。 
+function show_pMark(whichpic) {
+//  alert("I am an alert box!!");
+//	getElementById
+  var pMark = document.getElementById("pMark");
+//  设置属性。
+  pMark.style.cssText = "background-color:blue";
+}

@@ -1,0 +1,27 @@
+* {margin:0;padding:0;}
+
+html{
+	height:100%;width:100%;
+	background-color:green;
+	
+}
+body {height:90%;width:100%;
+	background-color:red;
+}
+
+.divContainer{
+	/*body 对齐 html上边界  */
+/* 		position:absolute;
+ */		background-color:gray;
+	    margin-top : 15px;
+	    width:100%;
+	    height:90%;
+	    border: 10px solid rgba(0, 0, 0, 0.1);
+}
+
+table{
+	border-collapse: collapse;
+    margin-top: 15px;
+    width: 100%;
+	
+}

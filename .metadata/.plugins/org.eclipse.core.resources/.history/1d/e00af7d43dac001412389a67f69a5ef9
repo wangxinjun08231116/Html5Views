@@ -1,0 +1,66 @@
+* {margin:0;padding:0;}
+
+html{
+	height:100%;width:100%;
+	background-color:green;
+	
+}
+body {height:90%;width:100%;
+	background-color:red;
+	vertical-align: middle; 
+}
+
+.divContainer{
+	/*body 对齐 html上边界  */
+/* 		position:absolute;
+ */		background-color:gray;
+	    margin-top: 15px;
+	    margin-left:15px;
+	    margin-right:15px;
+	  /*最好不要制定 宽度 ，通过margin来指定  */  
+/* 	    width:100%;
+ */	    height:90%;
+/* 	    text-align:center;     
+ */	    
+ 
+	    
+	    /*控制y,是否进行剪切 */
+  	  /*   overflow-x: hidden;  */ 	    
+/*  	    border: 1px solid rgba(0, 0, 0, 0.1);
+ */}
+ 
+
+ ul{
+  /* 无序列表，去掉前面的点 */
+  list-style-type:none; 
+  background-color:white;
+  
+ }
+ 
+ menu{
+  /* menu，去掉前面的点 */
+  list-style-type:none; 
+  background-color:white;
+  text-align:center;     
+  
+ }
+ 
+.li_left{
+ 	float:left;
+ 	margin-left: 5px;
+ 	width:48%;
+	height:40px;
+	background-color:yellow;
+ }
+.li_right{
+ 	float:right;
+ 	width:48%;
+ 	margin-right: 5px;
+	height:40px;
+	background-color:yellow;
+ }
+ 
+ 
+ 
+ 
+ 

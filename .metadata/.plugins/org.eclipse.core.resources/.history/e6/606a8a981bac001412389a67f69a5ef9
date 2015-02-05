@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+	<script type="text/javascript" src="/WangXinJun/js/ChangYongMark/table.js"></script>
+ 	<link href="/WangXinJun/css/ChangYongMark/table.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<!--divContainer  -->
+<div class="divContainer" >
+<table>
+<tbody>
+	<tr style="height: 50px; margin-top:5px">
+		<td style="vertical-align: middle; width: 20%; background-color:green;">
+		<td style="vertical-align: middle; width: 80%; background-color:yellow;">
+	</tr>
+	<br/>
+	<tr style="height: 50px; margin-top:5px">
+		<td style="vertical-align: middle; width: 20%; background-color:green;">
+		<td style="vertical-align: middle; width: 80%; background-color:yellow;">
+	</tr>
+	
+</tbody>
+</table>
+</div>
+
+</body>
+</html>

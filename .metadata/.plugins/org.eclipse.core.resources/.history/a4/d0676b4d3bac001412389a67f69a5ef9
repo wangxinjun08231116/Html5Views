@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>test</title>
+	<script type="text/javascript" src="/WangXinJun/js/ChangYongMark/Menu.js"></script>
+ 	<link href="/WangXinJun/css/ChangYongMark/menu.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+<!--divContainer  -->
+<div class="divContainer" >
+
+<ul>
+  <li>咖啡</li>
+  <li>茶</li>
+  <li>牛奶</li>
+</ul>
+
+<menu>
+<li><input type="checkbox" />Red</li>
+<li><input type="checkbox" />blue</li>
+</menu>
+
+</div>
+
+</body>
+</html>
